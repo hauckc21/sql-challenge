@@ -30,7 +30,7 @@ salary Int
 
 titles
 -
-title_id Int
+title_id Int PK FK >-< employees.emp_title
 title VARCHAR(255)
 
 

@@ -66,13 +66,3 @@ order by "last_name_freq" desc;
 
 
 
-
-
-
-
-
-
-
-
-
-
